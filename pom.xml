@@ -8,6 +8,9 @@
 		<version>3.0.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+     <relativePath /> <!-- changes by devIndia vishal -->
+	</parent>
+
 	<groupId>com.tcs</groupId>
 	<artifactId>ngoproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
